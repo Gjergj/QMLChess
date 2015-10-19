@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GamePlay.qml</file>
+        <file>img/kingw.svg</file>
+        <file>img/kingb.svg</file>
+        <file>img/rookb.svg</file>
+        <file>img/rookw.svg</file>
+        <file>img/pawnb.svg</file>
+        <file>img/pawnw.svg</file>
+        <file>img/knightb.svg</file>
+        <file>img/knightw.svg</file>
+        <file>img/bishopb.svg</file>
+        <file>img/bishopw.svg</file>
+        <file>img/queenb.svg</file>
+        <file>img/queenw.svg</file>
+        <file>GameReplay.qml</file>
+        <file>ChessBoard.qml</file>
+        <file>StartScreen.qml</file>
+    </qresource>
+</RCC>
