@@ -66,8 +66,6 @@ Item {
             id: fileDialog
             title: "Please choose a game file"
             folder: appPath
-            width: parent.width
-            height: parent.height
             visible: false;
             nameFilters: [ "Chess Files (*.chs)", "All files (*)" ]
             selectMultiple: false

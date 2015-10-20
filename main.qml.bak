@@ -8,7 +8,8 @@ ApplicationWindow {
     visible: true
 
     id: mainWindow
-
+    flags: Qt.Dialog
+    modality: Qt.ApplicationModal
     property variant win;
     StartScreen{
         id: startScreen
